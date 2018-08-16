@@ -10,8 +10,8 @@ I added on LCD keypad shield and use it to compete against another player for he
     - Workouts Done - (we count HIIT workouts or running as 1 workout; 10,000 points for 1 workout, 20,000 for 1+ workout per day)
     - Glasses of Water - (100 points for the first 7 glasses of water, 4300 for the 8th for a total of 5000 points for hitting water goal) 
 
-![gif](https://github.com/evberrypi/arduinoGamification/blob/master/arduinogame.gif)
-![pic](https://github.com/evberrypi/arduinoGamification/blob/master/arduinogame1.jpg)
+![gif](https://github.com/evberrypi/arduinoGamification/blob/master/assets/arduinogame.gif)
+![pic](https://photos.app.goo.gl/1y1Z4xd47NoNeBfv6)
 
 #### Improvments
   - [x] Display point totals.
